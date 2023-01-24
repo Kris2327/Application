@@ -1,0 +1,1 @@
+D:\Learn .NET MAUI\Learn .NET MAUI\Learn .NET MAUI.csproj;x64
