@@ -8,7 +8,7 @@
 
         <LinearGradientBrush EndPoint="0,1">
             <GradientStop Color="#512bd4"
-                          Offset="0.3" />
+                          Offset="0.05" />
             <GradientStop Color="#202ef6"
                           Offset="0.65" />
             <GradientStop Color="#512bd4"
